@@ -1,3 +1,4 @@
+# odin-recipes
 Odin Recipes is a HTML Project, assigned by The Odin Project to
 apply all the basic HTML knowledge. 
 
@@ -14,4 +15,3 @@ They should also have link to home page for easy navigation.
 -realised the importance of file structure while building a project.
 
 -got comfortable with using CLI to add, commit and push. 
-# odin-recipes
