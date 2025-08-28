@@ -1,0 +1,11 @@
+body {
+    background-color: #0b2e33;
+    font-family: Arial, Verdana, sans-serif;
+}
+
+.base-container {
+    max-width: 800px;
+    margin: 0px auto;
+    background-color: #0b2e33;
+}
+
