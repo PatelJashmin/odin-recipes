@@ -11,20 +11,25 @@ body {
     padding-top: 100px;
 }
 
-.heading, 
-.caption {
+.main-heading, 
+.tag-line {
     text-align: center;
 }
 
-.heading {
+.main-heading {
     margin: 0px;
     font-size: 35px;
     color: #b8e3e9;
 }
 
-.caption {
+.tag-line {
     margin: 5px;
     font-size: 20px;
     color: #4f7c82;
 }
 
+.intro {
+    font-size: 16px;
+    text-align: left;
+    color: #93B1B5;
+}
