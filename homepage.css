@@ -19,17 +19,43 @@ body {
 .main-heading {
     margin: 0px;
     font-size: 35px;
-    color: #b8e3e9;
+    color: #fff;
 }
 
 .tag-line {
     margin: 5px;
     font-size: 20px;
-    color: #4f7c82;
+    color: #729ca1;
 }
 
 .intro {
+    margin-top: 30px;
     font-size: 16px;
     text-align: left;
-    color: #93B1B5;
+    color: #b8e3e9;
+}
+
+.recipe-types h3 {
+    font-size: 20px;
+    color: #b8e3e9;
+}
+
+.recipe-types ul {
+    background-color: #132527;
+    padding: 10px;
+    list-style: none;
+    width: 700px;
+    margin-left: 20px;
+}
+
+a:link {
+  color: #ddd2a3;  /* gold for visited */
+}
+
+a:visited {
+  color: #69e1e1;  /* cyan for fresh link */
+}
+
+a:hover {
+  color: #6fa594;  /* light red on hover */
 }
